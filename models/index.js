@@ -7,4 +7,5 @@ module.exports = {
   sequelize,
   Admin,
   Product,
+  Message,
 };
