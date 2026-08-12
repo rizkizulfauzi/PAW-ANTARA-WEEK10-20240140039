@@ -1,12 +1,25 @@
-Tugas WEEK 10 — Message History
 
-Nama
+Nama :Muhammad Rizki Zulfauzi
 
-Muhammad Rizki Zulfauzi
+NIM :20240140039
 
-NIM
 
-20240140039
+1. Tampilan ui
+<img width="1920" height="1080" alt="Screenshot 2026-08-12 194139" src="https://github.com/user-attachments/assets/e85bfa40-2e67-4655-806a-90f8b955459a" />
+2. Tampilan Riwayat
+<img width="1920" height="1080" alt="Screenshot 2026-08-12 194147" src="https://github.com/user-attachments/assets/898eb1d1-6b31-4d01-a585-1e59428034ef" />
+3. Post Chat
+<img width="1920" height="1080" alt="Screenshot 2026-08-12 191237" src="https://github.com/user-attachments/assets/0460922e-0c36-4a4d-9912-c66773c9c356" />
+4. Post History
+<img width="1920" height="1080" alt="Screenshot 2026-08-12 191458" src="https://github.com/user-attachments/assets/b3ac9926-ee75-46b6-b3ca-113a1921d732" />
+5. Get/Read History 
+<img width="1920" height="1080" alt="Screenshot 2026-08-12 191613" src="https://github.com/user-attachments/assets/3e206d69-c9fa-47a3-b422-4a7eefeb4864" />
+
+
+
+
+
+
 
 1. Deskripsi
 
