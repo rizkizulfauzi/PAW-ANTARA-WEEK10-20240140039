@@ -10,6 +10,7 @@ const chatRoutes = require('./routes/chat.routes');
 const app = express();
 
 app.use(express.json());
+app.use(express.static('public'));
 
 app.use(
   session({
@@ -28,7 +29,7 @@ app.use('/api/products', productRoutes);
 app.use('/api/chat', chatRoutes);
 
 app.get('/', (req, res) => {
-  res.json({ message: 'CS Bot API jalan bre 🤖' });
+  res.sendFile(__dirname + '/public/index.html');
 });
 
 const PORT = process.env.PORT || 3000;
